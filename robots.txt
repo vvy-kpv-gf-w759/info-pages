@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vvy-kpv-gf-w759.github.io/info-pages/sitemap.xml
